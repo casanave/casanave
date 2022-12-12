@@ -57,8 +57,11 @@ https://github.com/casanave/time_series_stop_and_frisk
 - Used pandas to clean 10 years of Stop and Frisk Data for later use in a Tableu public viz showing demographic breakdown: https://public.tableau.com/views/2011-2021NYPDStopandFrisksbyRacePrecinctandOutcome/2011-2021NYPDStopandFrisksbyRacePrecinctandOutcome?:showVizHome=no
 - Used SARIMA Time Series Modeling with statsmodels, Auto Arima to investigate if there was seasonality to when stops did not lead to an arrest. (No seasonality detected.) 
 
+# LINKS
 
-### [LINKEDIN](https://www.linkedin.com/in/louis-casanave-78057aa0/) [MEDIUM](https://medium.com/@ls.casanave)
+### [LINKEDIN](https://www.linkedin.com/in/louis-casanave-78057aa0/) 
+
+### [MEDIUM](https://medium.com/@ls.casanave)
 
 
 <!--

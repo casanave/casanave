@@ -42,10 +42,24 @@ Advised hypothetical Microsoft Studios on what kinds of feature films to produce
 - Inferred best run time for new films is between 120-150 minutes based on historical popularity 
 
 ### Stop And Frisk Project
-https://github.com/casanave/stop_and_frisk 
+https://github.com/casanave/stop_and_frisk_2020
 
 - Visualized frequencies of stops and consent-asked in 2020 NYPD stop and frisk data towards understanding inequities in policing. 
 - Investigated anomalies and outliers, patterns, and relationships for insights into different zip codes and communicate results in a blog article, published by Towards Data Science with choropleth maps and graphs made in Folium and Seaborn
+
+https://github.com/casanave/stop_and_frisk_2021
+
+- Used Pandas to clean 2021 Stop and Frisk Data for later use in a Tableau public viz
+- Resulting Visualization used in article [EDA with Tableau: 2021 NYPD Stop-and-Frisks by Demographics](https://medium.com/towards-data-science/eda-with-tableau-2021-nypd-stop-and-frisks-by-demographics-e5e88eb43939)
+
+https://github.com/casanave/time_series_stop_and_frisk
+
+- Used pandas to clean 10 years of Stop and Frisk Data for later use in a Tableu public viz showing demographic breakdown: https://public.tableau.com/views/2011-2021NYPDStopandFrisksbyRacePrecinctandOutcome/2011-2021NYPDStopandFrisksbyRacePrecinctandOutcome?:showVizHome=no
+- Used SARIMA Time Series Modeling with statsmodels, Auto Arima to investigate if there was seasonality to when stops did not lead to an arrest. (No seasonality detected.) 
+
+
+###[LINKEDIN](https://www.linkedin.com/in/louis-casanave-78057aa0/)
+###[MEDIUM](https://medium.com/@ls.casanave)
 
 
 <!--

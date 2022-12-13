@@ -46,12 +46,13 @@ https://github.com/casanave/stop_and_frisk_2020
 
 ##### In-depth analysis, static visualization, time series modeling, and Tableau Public dashboard for public transparency. 
 - Visualized frequencies of stops and consent-asked in 2020 NYPD stop and frisk data towards understanding inequities in policing. 
-- Investigated anomalies and outliers, patterns, and relationships for insights into different zip codes and communicate results in a blog article, published by Towards Data Science with choropleth maps and graphs made in Folium and Seaborn
+- Investigated anomalies and outliers, patterns, and relationships for insights into different zip codes and communicate results with choropleth maps and graphs made in Folium and Seaborn
+- Resulting artical [Using Folium On Police Data](https://towardsdatascience.com/using-folium-on-police-data-3207e505c649) published by Towards Data Science 
 
 https://github.com/casanave/stop_and_frisk_2021
 
 - Used Pandas to clean 2021 Stop and Frisk Data for later use in a Tableau public viz
-- Resulting Visualization used in article [EDA with Tableau: 2021 NYPD Stop-and-Frisks by Demographics](https://medium.com/towards-data-science/eda-with-tableau-2021-nypd-stop-and-frisks-by-demographics-e5e88eb43939)
+- Resulting Visualization used in article [EDA with Tableau: 2021 NYPD Stop-and-Frisks by Demographics](https://medium.com/towards-data-science/eda-with-tableau-2021-nypd-stop-and-frisks-by-demographics-e5e88eb43939) published by Towards Data Science
 
 https://github.com/casanave/time_series_stop_and_frisk
 

@@ -6,6 +6,7 @@ I am a storyteller who is passionate about data, writing, public speaking and bu
 
 ### HurriHelp 
 [ReadMe](https://github.com/casanave/Hurri_Help)
+
 [Main Code Notebook](https://github.com/casanave/Hurri_Help/blob/main/analysis_and_modeling_notebook.ipynb)
 
 ##### Natural Language Processing project using sentiment analysis to help find Hurricane Ian survivors in distress, and provide them with links to National Disaster Distress Helpline and FEMA Info.  
@@ -17,6 +18,7 @@ I am a storyteller who is passionate about data, writing, public speaking and bu
 
 ###  Fetal Health Project
 [ReadMe](https://github.com/casanave/fetal_health)
+
 [Main Code Notebook](https://github.com/casanave/fetal_health/blob/main/final_notebook.ipynb)
 
 ##### Health information project for early detection and faster diagnosis of pathological fetal heartbeats.  
@@ -27,6 +29,7 @@ I am a storyteller who is passionate about data, writing, public speaking and bu
 
 ### Seattle Section 8 Expansion Project 
 [ReadMe](https://github.com/casanave/Seattle_Section_8_Expansion_Project)
+
 [Code Notebook](https://github.com/casanave/fetal_health/blob/main/final_notebook.ipynb)
 
 ##### Built inferential linear regression model to inform the city of Seattle on where to build new public housing.
@@ -38,6 +41,7 @@ Produced automated findings report for human analysis of coefficients, including
 
 ### Film Analysis Project
 [ReadMe](https://github.com/casanave/Film_Analysis_Project)
+
 [Code Notebook](https://github.com/casanave/Film_Analysis_Project/blob/master/Film_Analysis_Project%20.ipynb)
 
 ##### Advised hypothetical Microsoft Studios on what kinds of feature films to produce by analyzing box office financial data.  
@@ -48,6 +52,7 @@ Produced automated findings report for human analysis of coefficients, including
 ### Stop And Frisk Project
 
 [ReadMe](https://github.com/casanave/stop_and_frisk_2020)
+
 [First Code Notebook](https://github.com/casanave/stop_and_frisk_2020/blob/main/zipcode_frequency.ipynb)
 
 ##### In-depth analysis, static visualization, time series modeling, and Tableau Public dashboard for public transparency. 
@@ -56,12 +61,14 @@ Produced automated findings report for human analysis of coefficients, including
 - Resulting artical [Using Folium On Police Data](https://towardsdatascience.com/using-folium-on-police-data-3207e505c649) published by Towards Data Science 
 
 [ReadMe](https://github.com/casanave/stop_and_frisk_2021)
+
 [Code Notebook](https://github.com/casanave/stop_and_frisk_2021/blob/main/2021_analysis.ipynb)
 
 - Used Pandas to clean 2021 Stop and Frisk Data for later use in a Tableau public viz
 - Resulting Visualization used in article [EDA with Tableau: 2021 NYPD Stop-and-Frisks by Demographics](https://medium.com/towards-data-science/eda-with-tableau-2021-nypd-stop-and-frisks-by-demographics-e5e88eb43939) published by Towards Data Science
 
 [ReadMe](https://github.com/casanave/time_series_stop_and_frisk)
+
 [Main Code Notebook](https://github.com/casanave/time_series_stop_and_frisk/blob/main/Stop_And_Frisk_Timeseries_Notebook-Monthly.ipynb)
 
 - Used pandas to clean 10 years of Stop and Frisk Data for later use in a Tableu public viz showing demographic breakdown: https://public.tableau.com/views/2011-2021NYPDStopandFrisksbyRacePrecinctandOutcome/2011-2021NYPDStopandFrisksbyRacePrecinctandOutcome?:showVizHome=no

@@ -4,7 +4,7 @@ I am a storyteller who is passionate about data, writing, public speaking and bu
 
 # Projects 
 
-### HurriHelp (NLP Task and Modeling)
+### HurriHelp (Natural Language Processing Task and Modeling)
 [ReadMe](https://github.com/casanave/Hurri_Help)
 
 [Main Code Notebook](https://github.com/casanave/Hurri_Help/blob/main/analysis_and_modeling_notebook.ipynb)

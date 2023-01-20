@@ -4,7 +4,7 @@ I am a storyteller who is passionate about data, writing, public speaking and bu
 
 # Projects 
 
-### HurriHelp 
+### HurriHelp (NLP Task and Modeling)
 [ReadMe](https://github.com/casanave/Hurri_Help)
 
 [Main Code Notebook](https://github.com/casanave/Hurri_Help/blob/main/analysis_and_modeling_notebook.ipynb)
@@ -16,7 +16,7 @@ I am a storyteller who is passionate about data, writing, public speaking and bu
 - Used Random Forest, Naive Bayes, XGBoost, and Catboost on vectorized tweets for 80% precision in the best-tuned model
 - Used Lime Text Explainer for the inferential understanding of the most common words in data, and found words most likely to be in negative tweets
 
-###  Fetal Health Project
+###  Fetal Health Project (Catigorization Task and Modleing) 
 [ReadMe](https://github.com/casanave/fetal_health)
 
 [Main Code Notebook](https://github.com/casanave/fetal_health/blob/main/final_notebook.ipynb)
@@ -27,7 +27,7 @@ I am a storyteller who is passionate about data, writing, public speaking and bu
 - Used OneVsRest wrapper and GridSearchCV for model specialized to pathological class and best-tuned machine. 
 - Used Shap Values for the inferential understanding of the model, and reduced dimensionality of the algorithm by five input features for 90% recall
 
-### Seattle Section 8 Expansion Project 
+### Seattle Section 8 Expansion Project (Regression Task and Modeling)
 [ReadMe](https://github.com/casanave/Seattle_Section_8_Expansion_Project)
 
 [Code Notebook](https://github.com/casanave/fetal_health/blob/main/final_notebook.ipynb)
@@ -39,7 +39,7 @@ I am a storyteller who is passionate about data, writing, public speaking and bu
 - Iteratively constructed eight versions of the linear regression model, removing features with low P Values for an R-Squared score of 83%
 Produced automated findings report for human analysis of coefficients, including inferential analysis of inequity by zip code
 
-### Film Analysis Project
+### Film Analysis Project (Exploritory Data Analysis) 
 [ReadMe](https://github.com/casanave/Film_Analysis_Project)
 
 [Code Notebook](https://github.com/casanave/Film_Analysis_Project/blob/master/Film_Analysis_Project%20.ipynb)
@@ -49,7 +49,7 @@ Produced automated findings report for human analysis of coefficients, including
 - Pivoted Table to aggregate films of most popular genres by release date to infer seasonal trends: best months for releasing new films in most popular genres to be June, July, May, March, November, and April
 - Inferred best run time for new films is between 120-150 minutes based on historical popularity 
 
-### Stop And Frisk Project
+### Stop And Frisk Project (Time Series Analysis, Tableau Dashboard, Geospacial Vizualization)
 
 [ReadMe](https://github.com/casanave/stop_and_frisk_2020)
 

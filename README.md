@@ -51,18 +51,20 @@ Produced automated findings report for human analysis of coefficients, including
 - Pivoted Table to aggregate films of most popular genres by release date to infer seasonal trends: best months for releasing new films in most popular genres to be June, July, May, March, November, and April
 - Inferred best run time for new films is between 120-150 minutes based on historical popularity 
 
-### Stop And Frisk Project (Time Series Analysis, Tableau Dashboard, Geospacial Vizualization)
-
-##### In-depth analysis, static visualization, time series modeling, and Tableau Public dashboard for public transparency. 
+### Stop And Frisk Project (Time Series Analysis, Tableau Dashboard, Geospacial Vizualization) 
 
 [ReadMe](https://github.com/casanave/stop_and_frisk_2021)
 
 [Code Notebook](https://github.com/casanave/stop_and_frisk_2021/blob/main/2021_analysis.ipynb)
 
+##### Tableau Public dashboard using demographic information from 2021 for public transparency.
+
 - Used Pandas to clean 2021 Stop and Frisk Data for later use in a Tableau public viz
 - Resulting Visualization used in article [EDA with Tableau: 2021 NYPD Stop-and-Frisks by Demographics](https://medium.com/towards-data-science/eda-with-tableau-2021-nypd-stop-and-frisks-by-demographics-e5e88eb43939) published by Towards Data Science
 
 [ReadMe](https://github.com/casanave/stop_and_frisk_2020)
+
+##### In-depth analysis, static geocoding visualization of consent-asked for rates in 2020 for public transparency.
 
 [First Code Notebook](https://github.com/casanave/stop_and_frisk_2020/blob/main/zipcode_frequency.ipynb)
 
@@ -73,6 +75,8 @@ Produced automated findings report for human analysis of coefficients, including
 [ReadMe](https://github.com/casanave/time_series_stop_and_frisk)
 
 [Main Code Notebook](https://github.com/casanave/time_series_stop_and_frisk/blob/main/Stop_And_Frisk_Timeseries_Notebook-Monthly.ipynb)
+
+##### In-depth analysis, time time series modeling, and Tableau Public dashboard of last 10 years of Stop-and-Frisks.
 
 - Used pandas to clean 10 years of Stop and Frisk Data for later use in a Tableu public viz showing demographic breakdown: https://public.tableau.com/views/2011-2021NYPDStopandFrisksbyRacePrecinctandOutcome/2011-2021NYPDStopandFrisksbyRacePrecinctandOutcome?:showVizHome=no
 - Used SARIMA Time Series Modeling with statsmodels, Auto Arima to investigate if there was seasonality to when stops did not lead to an arrest. (No seasonality detected.) 

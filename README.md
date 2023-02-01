@@ -64,9 +64,9 @@ Produced automated findings report for human analysis of coefficients, including
 
 [ReadMe](https://github.com/casanave/stop_and_frisk_2020)
 
-##### In-depth analysis, static geocoding visualization of consent-asked for rates in 2020 for public transparency.
-
 [First Code Notebook](https://github.com/casanave/stop_and_frisk_2020/blob/main/zipcode_frequency.ipynb)
+
+##### In-depth analysis, static geocoding visualization of consent-asked for rates in 2020 for public transparency.
 
 - Visualized frequencies of stops and consent-asked in 2020 NYPD stop and frisk data towards understanding inequities in policing. 
 - Investigated anomalies and outliers, patterns, and relationships for insights into different zip codes and communicate results with choropleth maps and graphs made in Folium and Seaborn

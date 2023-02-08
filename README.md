@@ -1,6 +1,7 @@
-### Hi there 👋 I'm Louis 
+# Hi there 👋 I'm Louis 
 
-[Introduction Video](https://www.loom.com/share/43c90039c31f4c57b88c720dda6e723b)
+## INTRO VIDEO
+[<img width="1280" alt="Screen Shot 2023-02-08 at 11 23 20 AM" src="https://user-images.githubusercontent.com/8728172/217589930-ef3c9d06-f578-4479-890c-1dfb236a1205.png">](https://www.loom.com/share/43c90039c31f4c57b88c720dda6e723b)
 
 I am a storyteller who is passionate about data, writing, public speaking and building community. I hold a special place in my heart for Natural Language Processing (spaCy, NLTK,) and inferential modeling (statsmodels, scikit-learn, and using SHAP or LIME explainers.) Additionally, I have experience with data wrangling, scraping, and engineering, (pandas, selenium,) and using machine learning algorithms (decision tree/Random Forest, Linear and Logistic regression analysis.) I also adore making visualizations (seaborn, matplotlib,) and using maps (folium.) I have experience using APIs (Google, Yelp, Twitter) as well as using public data sets (NYC Open Portal.) A firm believer in a well-written code comment, accessible documentation, and better coding with functions. 
 

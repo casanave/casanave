@@ -19,6 +19,9 @@ I am a storyteller who is passionate about data, writing, public speaking and bu
 - Used Random Forest, Naive Bayes, XGBoost, and Catboost on vectorized tweets for 80% precision in the best-tuned model
 - Used Lime Text Explainer for the inferential understanding of the most common words in data, and found words most likely to be in negative tweets
 
+
+
+
 ###  Fetal Health Project (Catigorization Task and Modleing) 
 [ReadMe](https://github.com/casanave/fetal_health)
 
@@ -29,6 +32,9 @@ I am a storyteller who is passionate about data, writing, public speaking and bu
 - Tested Logistic Regression, K-Nearest-Neighbors, Support Vector Machine, and Random Forest for the highest recall of pathological class of 92%
 - Used OneVsRest wrapper and GridSearchCV for model specialized to pathological class and best-tuned machine. 
 - Used Shap Values for the inferential understanding of the model, and reduced dimensionality of the algorithm by five input features for 90% recall
+
+
+
 
 ### Seattle Section 8 Expansion Project (Regression Task and Modeling)
 [ReadMe](https://github.com/casanave/Seattle_Section_8_Expansion_Project)
@@ -42,6 +48,9 @@ I am a storyteller who is passionate about data, writing, public speaking and bu
 - Iteratively constructed eight versions of the linear regression model, removing features with low P Values for an R-Squared score of 83%
 Produced automated findings report for human analysis of coefficients, including inferential analysis of inequity by zip code
 
+
+
+
 ### Film Analysis Project (Exploritory Data Analysis) 
 [ReadMe](https://github.com/casanave/Film_Analysis_Project)
 
@@ -52,7 +61,12 @@ Produced automated findings report for human analysis of coefficients, including
 - Pivoted Table to aggregate films of most popular genres by release date to infer seasonal trends: best months for releasing new films in most popular genres to be June, July, May, March, November, and April
 - Inferred best run time for new films is between 120-150 minutes based on historical popularity 
 
-### Stop And Frisk Project (Time Series Analysis, Tableau Dashboard, Geospacial Vizualization) 
+
+
+
+### Stop And Frisk Project 
+
+#### Tableau Dashboard, 
 
 [ReadMe](https://github.com/casanave/stop_and_frisk_2021)
 
@@ -63,6 +77,8 @@ Produced automated findings report for human analysis of coefficients, including
 - Used Pandas to clean 2021 Stop and Frisk Data for later use in a Tableau public viz
 - Resulting Visualization used in article [EDA with Tableau: 2021 NYPD Stop-and-Frisks by Demographics](https://medium.com/towards-data-science/eda-with-tableau-2021-nypd-stop-and-frisks-by-demographics-e5e88eb43939) published by Towards Data Science
 
+
+#### Geospacial Vizualization
 [ReadMe](https://github.com/casanave/stop_and_frisk_2020)
 
 [First Code Notebook](https://github.com/casanave/stop_and_frisk_2020/blob/main/zipcode_frequency.ipynb)
@@ -73,6 +89,8 @@ Produced automated findings report for human analysis of coefficients, including
 - Investigated anomalies and outliers, patterns, and relationships for insights into different zip codes and communicate results with choropleth maps and graphs made in Folium and Seaborn
 - Resulting artical [Using Folium On Police Data](https://towardsdatascience.com/using-folium-on-police-data-3207e505c649) published by Towards Data Science 
 
+
+#### Time Series Analysis
 [ReadMe](https://github.com/casanave/time_series_stop_and_frisk)
 
 [Main Code Notebook](https://github.com/casanave/time_series_stop_and_frisk/blob/main/Stop_And_Frisk_Timeseries_Notebook-Monthly.ipynb)
@@ -81,6 +99,9 @@ Produced automated findings report for human analysis of coefficients, including
 
 - Used pandas to clean 10 years of Stop and Frisk Data for later use in a Tableu public viz showing demographic breakdown: https://public.tableau.com/views/2011-2021NYPDStopandFrisksbyRacePrecinctandOutcome/2011-2021NYPDStopandFrisksbyRacePrecinctandOutcome?:showVizHome=no
 - Used SARIMA Time Series Modeling with statsmodels, Auto Arima to investigate if there was seasonality to when stops did not lead to an arrest. (No seasonality detected.) 
+
+
+
 
 # LINKS
 

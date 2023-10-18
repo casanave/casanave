@@ -10,8 +10,7 @@ I am a storyteller who is passionate about data, writing, public speaking and bu
 ### Pumpkin_Spice (Time series analysis and modeling Modeling)
 [ReadMe](https://github.com/casanave/Pumpkin_Spice/blob/main/README.md)
 
-[Main Code Notebook]([https://github.com/casanave/Hurri_Help/blob/main/analysis_and_modeling_notebook.ipynb](https://github.com/casanave/Pumpkin_Spice/blob/main/Pumpkin_Spice.ipynb))
-
+[Main Code Notebook](https://github.com/casanave/Pumpkin_Spice/blob/main/Pumpkin_Spice.ipynb)
 ##### Time series analysis with naive, SARIMA and ETS modeling.  
 - Google trends last 5 years of data with the "pumpkin spice" search term
 - Performed both additive and multiplicative time series decomposition of data with explinations

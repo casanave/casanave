@@ -7,7 +7,7 @@ I am a storyteller who is passionate about data, writing, public speaking and bu
 
 # Projects 
 
-### Pumpkin_Spice (Time series analysis and modeling Modeling)
+### Pumpkin_Spice (Time series analysis and Modeling)
 [ReadMe](https://github.com/casanave/Pumpkin_Spice/blob/main/README.md)
 
 [Main Code Notebook](https://github.com/casanave/Pumpkin_Spice/blob/main/Pumpkin_Spice.ipynb)

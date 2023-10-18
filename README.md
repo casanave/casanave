@@ -7,6 +7,22 @@ I am a storyteller who is passionate about data, writing, public speaking and bu
 
 # Projects 
 
+### Pumpkin_Spice (Time series analysis and modeling Modeling)
+[ReadMe](https://github.com/casanave/Pumpkin_Spice/blob/main/README.md)
+
+[Main Code Notebook]([https://github.com/casanave/Hurri_Help/blob/main/analysis_and_modeling_notebook.ipynb](https://github.com/casanave/Pumpkin_Spice/blob/main/Pumpkin_Spice.ipynb))
+
+##### Time series analysis with naive, SARIMA and ETS modeling.  
+- Google trends last 5 years of data with the "pumpkin spice" search term
+- Performed both additive and multiplicative time series decomposition of data with explinations
+- Tested naive models that use last year and last week's data as today's direct prediction
+- Tested SARIMA and ETS itterations of models with terms based on both ACF and PACF plots, as well as an itterative approach with PMD Auto Arima
+- Best model was an ETS model with MAPE: 12.118428034881385, RMSE: 4.429939957414803 which is roughly 2-3 times better than using last year's data 
+- Downloaded final [model](https://github.com/casanave/Pumpkin_Spice/blob/main/pumpkin_spice_predictor.sav) and will verify last two weeks of data in blind verification
+
+
+
+
 ### HurriHelp (Natural Language Processing Task and Modeling)
 [ReadMe](https://github.com/casanave/Hurri_Help)
 
@@ -88,17 +104,6 @@ Produced automated findings report for human analysis of coefficients, including
 - Visualized frequencies of stops and consent-asked in 2020 NYPD stop and frisk data towards understanding inequities in policing. 
 - Investigated anomalies and outliers, patterns, and relationships for insights into different zip codes and communicate results with choropleth maps and graphs made in Folium and Seaborn
 - Resulting artical [Using Folium On Police Data](https://towardsdatascience.com/using-folium-on-police-data-3207e505c649) published by Towards Data Science 
-
-
-#### Time Series Analysis
-[ReadMe](https://github.com/casanave/time_series_stop_and_frisk)
-
-[Main Code Notebook](https://github.com/casanave/time_series_stop_and_frisk/blob/main/Stop_And_Frisk_Timeseries_Notebook-Monthly.ipynb)
-
-##### In-depth analysis, time time series modeling, and Tableau Public dashboard of last 10 years of Stop-and-Frisks.
-
-- Used pandas to clean 10 years of Stop and Frisk Data for later use in a Tableu public viz showing demographic breakdown: https://public.tableau.com/views/2011-2021NYPDStopandFrisksbyRacePrecinctandOutcome/2011-2021NYPDStopandFrisksbyRacePrecinctandOutcome?:showVizHome=no
-- Used SARIMA Time Series Modeling with statsmodels, Auto Arima to investigate if there was seasonality to when stops did not lead to an arrest. (No seasonality detected.) 
 
 
 

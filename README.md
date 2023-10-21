@@ -17,7 +17,7 @@ I am a storyteller who is passionate about data, writing, public speaking and bu
 - Tested naive models that use last year and last week's data as today's direct prediction
 - Tested SARIMA and ETS itterations of models with terms based on both ACF and PACF plots, as well as an itterative approach with PMD Auto Arima
 - Best model was an ETS model with MAPE: 12.118428034881385, RMSE: 4.429939957414803 which is roughly 2-3 times better than using last year's data 
-- Downloaded final [model](https://github.com/casanave/Pumpkin_Spice/blob/main/pumpkin_spice_predictor.sav) and will verify last year's data in one year for verification blindness.
+- Downloaded final [model](https://github.com/casanave/Pumpkin_Spice/blob/main/ps_predictor.sav) and will verify last year's data in one year for verification blindness.
 
 
 
